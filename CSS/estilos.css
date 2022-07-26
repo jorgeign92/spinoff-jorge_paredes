@@ -1,0 +1,921 @@
+@media only screen and ( max-width: 600px ){
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    body{
+        background-image: linear-gradient(black, rgb(121, 0, 0));
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    header nav ul{
+        display: flex;
+        list-style: none;
+    
+    }
+    
+    header nav ul li a{
+        text-decoration: none;
+        color: #23b5b5;
+    }
+
+    header nav ul li a:hover{
+        background-color: rgb(145, 0, 0);
+    }
+    
+    header nav ul li{
+        margin-right: 16px;
+    
+    }
+    
+    header{
+        color: #23b5b5;
+        top: 0;
+        position: sticky;
+        padding: 16px;
+        font-size: 24px;
+        display: flex;
+        background-color: black;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    header h1{
+        font-weight: 100;
+    }
+    
+    main{
+        display: grid;
+
+        grid-template-columns: 100%;
+        grid-template-rows: 5%,20%,20%,20%,20%;
+        grid-template-areas:  "titulo"
+                              "productoUno"
+                              "productoDos"
+                              "productoTres"
+                              "productoCuatro"
+                              "productoCinco"
+                              "productoSeis"
+                              "productoSiete"
+                              "productoOcho"
+                              "aside";
+        justify-items: center;
+        column-gap: 5px;
+        row-gap: 5px;
+
+    }
+
+    .cardProductoUno{
+        grid-area: productoUno;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoUno:hover{
+        grid-area: productoUno;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+
+    .cardProductoDos{
+        grid-area: productoDos;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoDos:hover{
+        grid-area: productoDos;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+
+    .cardProductoTres{
+        grid-area: productoTres;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+    .cardProductoTres:hover{
+        grid-area: productoTres;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoCuatro{
+        grid-area: productoCuatro;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoCuatro:hover{
+        grid-area: productoCuatro;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+    
+    .cardProductoCinco{
+        grid-area: productoCinco;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoCinco:hover{
+        grid-area: productoCinco;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoSeis{
+        grid-area: productoSeis;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoSeis:hover{
+        grid-area: productoSeis;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+    
+    .cardProductoSiete{
+        grid-area: productoSiete;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoSiete:hover{
+        grid-area: productoSiete;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoOcho{
+        grid-area: productoOcho;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoOcho:hover{
+        grid-area: productoOcho;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+
+    .fondoImagen{
+        text-align: center;
+        background-color: black;
+        border-radius: 8px;
+        transition: transform 1s;
+    }
+
+    .fondoImagen:hover{
+        text-align: center;
+        background-color: black;
+        border-radius: 8px;
+        transform: rotate(5deg);
+    }
+
+    .aside{
+        grid-area: aside;
+        background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
+        color: black;
+        width: 90%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        transition: transform 1s;
+    }
+
+    .aside:hover{
+        grid-area: aside;
+        background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
+        color: black;
+        width: 90%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        transform: skew(5deg,5deg);
+    }
+
+    .titulo{
+        grid-area: titulo;
+        color:#23b5b5;
+        width: 90%;
+        height: 15%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+    }
+
+    .footer{
+        grid-area: footer;
+        margin: 3px;
+        padding: 16px;
+        color:teal;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+    }
+
+    main form{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    
+    .fieldsetContacto{
+        color: cornflowerblue;
+    }
+
+}
+
+@media only screen and ( min-width: 600px ){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    body{
+        background-image: linear-gradient(black, rgb(121, 0, 0));
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    header nav ul{
+        display: flex;
+        list-style: none;
+    
+    }
+    
+    header nav ul li a{
+        text-decoration: none;
+        color: #23b5b5;
+    }
+
+    header nav ul li a:hover{
+        background-color: rgb(145, 0, 0);
+    }
+    
+    header nav ul li{
+        margin-right: 16px;
+    
+    }
+    
+    header{
+        color: #23b5b5;
+        top: 0;
+        position: sticky;
+        padding: 16px;
+        font-size: 24px;
+        display: flex;
+        background-color: black;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    header h1{
+        font-weight: 100;
+    }
+
+    main{
+        display: grid;
+
+        grid-template-columns: 50%,50%;
+        grid-template-rows: 5%,20%,20%,20%,20%;
+        grid-template-areas:  "titulo titulo"
+                              "productoUno productoDos"
+                              "productoTres productoCuatro"
+                              "productoCinco productoSeis"
+                              "productoSiete productoOcho"
+                              "aside aside";
+        justify-items: center;
+        column-gap: 5px;
+        row-gap: 5px;
+
+    }
+
+    .cardProductoUno{
+        grid-area: productoUno;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoUno:hover{
+        grid-area: productoUno;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+
+    .cardProductoDos{
+        grid-area: productoDos;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoDos:hover{
+        grid-area: productoDos;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+
+    .cardProductoTres{
+        grid-area: productoTres;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+    .cardProductoTres:hover{
+        grid-area: productoTres;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoCuatro{
+        grid-area: productoCuatro;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoCuatro:hover{
+        grid-area: productoCuatro;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+    
+    .cardProductoCinco{
+        grid-area: productoCinco;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoCinco:hover{
+        grid-area: productoCinco;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoSeis{
+        grid-area: productoSeis;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoSeis:hover{
+        grid-area: productoSeis;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+    
+    .cardProductoSiete{
+        grid-area: productoSiete;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoSiete:hover{
+        grid-area: productoSiete;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoOcho{
+        grid-area: productoOcho;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoOcho:hover{
+        grid-area: productoOcho;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+
+    .fondoImagen{
+        text-align: center;
+        background-color: black;
+        border-radius: 8px;
+        transition: transform 1s;
+    }
+
+    .fondoImagen:hover{
+        text-align: center;
+        background-color: black;
+        border-radius: 8px;
+        transform: rotate(5deg);
+    }
+
+    .aside{
+        grid-area: aside;
+        background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
+        color: black;
+        width: 90%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        transition: transform 1s;
+    }
+
+    .aside:hover{
+        grid-area: aside;
+        background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
+        color: black;
+        width: 90%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        transform: skew(5deg,5deg);
+    }
+
+    .titulo{
+        grid-area: titulo;
+        color:#23b5b5;
+        width: 90%;
+        height: 15%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+    }
+
+    .footer{
+        grid-area: footer;
+        margin: 3px;
+        padding: 16px;
+        color:teal;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+    }
+
+    main form{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    
+    .fieldsetContacto{
+        color: cornflowerblue;
+    }
+
+}
+
+@media only screen and ( min-width: 992px ){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    body{
+        background-image: linear-gradient(black, rgb(121, 0, 0));
+        font-family: 'Open Sans', sans-serif;
+    }
+    
+    header nav ul{
+        display: flex;
+        list-style: none;
+    
+    }
+    
+    header nav ul li a{
+        text-decoration: none;
+        color: #23b5b5;
+    }
+
+    header nav ul li a:hover{
+        background-color: rgb(145, 0, 0);
+    }
+    
+    header nav ul li{
+        margin-right: 16px;
+    
+    }
+    
+    header{
+        color: #23b5b5;
+        top: 0;
+        position: sticky;
+        padding: 16px;
+        font-size: 24px;
+        display: flex;
+        background-color: black;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    header h1{
+        font-weight: 100;
+    }
+    
+    main{
+        display: grid;
+        grid-template-columns: 30%,30%,40%;
+        grid-template-rows: 5%,20%,20%,20%,20%;
+        grid-template-areas:  "titulo titulo titulo"
+                              "productoUno productoDos aside"
+                              "productoTres productoCuatro aside"
+                              "productoCinco productoSeis aside"
+                              "productoSiete productoOcho aside";
+        justify-items: center;
+        column-gap: 5px;
+        row-gap: 5px;
+        
+    }
+    
+    .cardProductoUno{
+        grid-area: productoUno;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoUno:hover{
+        grid-area: productoUno;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+
+    .cardProductoDos{
+        grid-area: productoDos;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoDos:hover{
+        grid-area: productoDos;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+
+    .cardProductoTres{
+        grid-area: productoTres;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+    .cardProductoTres:hover{
+        grid-area: productoTres;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoCuatro{
+        grid-area: productoCuatro;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoCuatro:hover{
+        grid-area: productoCuatro;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+    
+    .cardProductoCinco{
+        grid-area: productoCinco;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoCinco:hover{
+        grid-area: productoCinco;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoSeis{
+        grid-area: productoSeis;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoSeis:hover{
+        grid-area: productoSeis;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+    
+    .cardProductoSiete{
+        grid-area: productoSiete;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoSiete:hover{
+        grid-area: productoSiete;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: scale(1.5,1.5);
+    }
+    
+    .cardProductoOcho{
+        grid-area: productoOcho;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transition: transform 1s;
+    }
+
+    .cardProductoOcho:hover{
+        grid-area: productoOcho;
+        margin: 3px;
+        padding: 16px;
+        background-color: lightgrey;
+        width: 90%;
+        border-radius: 16px;
+        transform: translate(10px,10px);
+    }
+    
+    
+    .fondoImagen{
+        text-align: center;
+        background-color: black;
+        border-radius: 8px;
+        transition: transform 1s;
+    }
+
+    .fondoImagen:hover{
+        text-align: center;
+        background-color: black;
+        border-radius: 8px;
+        transform: rotate(5deg);
+    }
+    
+    .footer{
+        grid-area: footer;
+        margin: 3px;
+        padding: 16px;
+        color:teal;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+    }
+    
+    .aside{
+        grid-area: aside;
+        background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
+        color: black;
+        width: 90%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        transition: transform 1s;
+    }
+
+    .aside:hover{
+        grid-area: aside;
+        background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
+        color: black;
+        width: 90%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+        transform: skew(5deg,5deg);
+    }
+    
+    .titulo{
+        grid-area: titulo;
+        color:#23b5b5;
+        width: 90%;
+        height: 15%;
+        font-style: normal;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 1px;
+        word-spacing: 5px;
+    }
+    
+    main form{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    
+    .fieldsetContacto{
+        color: cornflowerblue;
+    }
+
+}
+
+
+
+
+
+
