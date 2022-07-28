@@ -84,7 +84,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
 
     .cardProductoDos{
@@ -123,7 +123,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoCuatro{
@@ -163,7 +163,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoSeis{
@@ -203,7 +203,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoOcho{
@@ -253,7 +253,7 @@
         word-spacing: 5px;
         transition: transform 1s;
     }
-
+/*
     .aside:hover{
         grid-area: aside;
         background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
@@ -267,7 +267,7 @@
         word-spacing: 5px;
         transform: skew(5deg,5deg);
     }
-
+*/
     .titulo{
         grid-area: titulo;
         color:#23b5b5;
@@ -388,7 +388,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
 
     .cardProductoDos{
@@ -427,7 +427,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoCuatro{
@@ -467,7 +467,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoSeis{
@@ -507,7 +507,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoOcho{
@@ -557,7 +557,7 @@
         word-spacing: 5px;
         transition: transform 1s;
     }
-
+/*
     .aside:hover{
         grid-area: aside;
         background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
@@ -571,7 +571,7 @@
         word-spacing: 5px;
         transform: skew(5deg,5deg);
     }
-
+*/
     .titulo{
         grid-area: titulo;
         color:#23b5b5;
@@ -621,6 +621,7 @@
         background-image: linear-gradient(black, rgb(121, 0, 0));
         font-family: 'Open Sans', sans-serif;
     }
+    
     
     header nav ul{
         display: flex;
@@ -690,7 +691,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
 
     .cardProductoDos{
@@ -729,7 +730,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoCuatro{
@@ -769,7 +770,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoSeis{
@@ -809,7 +810,7 @@
         background-color: lightgrey;
         width: 90%;
         border-radius: 16px;
-        transform: scale(1.5,1.5);
+        transform: translate(10px,10px);
     }
     
     .cardProductoOcho{
@@ -873,7 +874,7 @@
         word-spacing: 5px;
         transition: transform 1s;
     }
-
+/*
     .aside:hover{
         grid-area: aside;
         background-image: linear-gradient(to right, rgb(0, 182, 182), rgb(0, 95, 95));
@@ -887,7 +888,7 @@
         word-spacing: 5px;
         transform: skew(5deg,5deg);
     }
-    
+    */
     .titulo{
         grid-area: titulo;
         color:#23b5b5;
