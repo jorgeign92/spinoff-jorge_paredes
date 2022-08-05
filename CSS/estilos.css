@@ -40,6 +40,7 @@
         background-color: black;
         align-items: center;
         justify-content: space-between;
+        z-index: 9999;
     }
     
     header h1{
@@ -348,6 +349,7 @@
         background-color: black;
         align-items: center;
         justify-content: space-between;
+        z-index: 9999;
     }
     
     header h1{
@@ -653,6 +655,7 @@
         background-color: black;
         align-items: center;
         justify-content: space-between;
+        z-index: 9999;
     }
     
     header h1{
