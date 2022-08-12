@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/issues</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/pulls</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/projects?type=new</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/security</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/master/.DS_Store</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/master/.gitignore</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/master/index.html</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/master/package-lock.json</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/master/package.json</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/releases</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/compare</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800975672</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800885794</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800676981</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800520198</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800509248</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2786536869</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2757405450</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2736994407</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/projects?type=classic</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/projects?type=beta</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/security/policy</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/security/advisories</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/341a00816d812e43a273a8d5ae763cf9edb01dbc/.DS_Store</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/find/master</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/login?return_to=https%3A%2F%2Fgithub.com%2Fjorgeign92%2Fspinoff-jorge_paredes%2Fdelete%2Fmaster%2F.DS_Store</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/341a00816d812e43a273a8d5ae763cf9edb01dbc/.gitignore</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/341a00816d812e43a273a8d5ae763cf9edb01dbc/index.html</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/341a00816d812e43a273a8d5ae763cf9edb01dbc/package-lock.json</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/blob/341a00816d812e43a273a8d5ae763cf9edb01dbc/package.json</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels?sort=name-asc</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels?sort=name-desc</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels?sort=count-desc</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels?sort=count-asc</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/bug</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/documentation</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/duplicate</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/enhancement</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/good%20first%20issue</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/help%20wanted</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/invalid</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/question</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/labels/wontfix</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7684464167?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7684470354?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7684470101?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/341a00816d812e43a273a8d5ae763cf9edb01dbc</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800975672/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7684210866?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7684216800?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7684216735?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/9de656a6c48cf2aaa5cf7cc0a852e136915f1e79</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800885794/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683679017?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683684885?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683684825?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/20687877e70560581f40407ad300ad08f77c6b59</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800676981/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683268253?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683274858?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683274761?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/cc65f2fbc8a4ffe21c037f742b91662aa934f296</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800520198/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683241107?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683250046?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7683249889?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/6eac3b76d1f2fcb4fd4e793d6cf1569b27efda05</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2800509248/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7643995943?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7644002258?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7644002355?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/1c713616f55d327405d564749b6e4425083d030a</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2786536869/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7570469863?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7570475108?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7570475024?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/1c95a7a01e67c2c83fb6fa2494dfa3f72b017437</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2757405450/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7513394867?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7513400824?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/runs/7513400898?check_suite_focus=true</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/commit/d968649a6192fa5a9457efbfbdef3e77b89c78d7</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/actions/runs/2736994407/usage</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/security/advisories?state=published</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/find/341a00816d812e43a273a8d5ae763cf9edb01dbc</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/jorgeign92/spinoff-jorge_paredes/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-08-12T00:04:00+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
